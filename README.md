@@ -25,9 +25,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: S JAIGANESH
+### Name: ASWINTH T
 
-### Register Number: 212222240037
+### Register Number: 212222230015
 
 ```
 import torch
